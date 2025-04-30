@@ -1,2 +1,2 @@
-# unip
-university student portal
+# CSharp-MVC-Uniport
+Universal Portal Project for all collage students 
